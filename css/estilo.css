@@ -1,0 +1,65 @@
+.green { 
+    color: green;
+    text-align: right;
+}
+
+h1{
+    background-color: rgb(35, 35, 165); 
+}
+
+.home{
+    color: rgb(65, 65, 161); 
+    text-align: center;
+}
+.frame{
+    border-radius:12px;
+
+}
+.contacto{
+    color: rgb(65, 65, 161); 
+    text-align: center;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(212, 208, 208);
+    margin: 0;
+    padding: 0;
+}
+
+.nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.nav ul li {
+    margin: 0 15px;
+}
+
+.nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a{
+
+color: rgb(13, 133, 33);
+
+}
+.mainBiblio{
+    color: green;
+}
+.mainContacto{
+    color: red;
+}
+.mainDisco{
+    color: blue;
+}
+.mainLista{
+    color: brown;
+}
+.footer{
+     background-color: rgb(35, 35, 165); 
+}
